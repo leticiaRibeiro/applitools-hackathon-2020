@@ -6,6 +6,6 @@ describe('Traditional tests V1',() => {
         cy.visit('https://demo.applitools.com/gridHackathonV1.html')
         cy.get('input[id="colors__Black"]').check()
         cy.get('button[id="filterBtn"]').click()
-        cy.get('#product_grid').should('have.id', 'DIV__colcolmd__210')
+        cy.get('#product_grid').children().should('have.length', 2)
     })
 })
