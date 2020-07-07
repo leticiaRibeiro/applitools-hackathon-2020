@@ -17,15 +17,15 @@ Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____168, Browser:
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____173, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____178, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 1, Test Name: Product grid, DOM Id: .grid_item, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=1"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=2"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=3"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=4"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=5"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=6"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=7"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=8"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=9"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=1"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=2"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=3"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=4"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=5"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=6"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=7"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=8"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=9"], Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_name, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_img, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Review, DOM Id: .icon-star, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
@@ -33,15 +33,15 @@ Task: Task 3, Test Name: Review, DOM Id: .icon-star.voted, Browser: chrome, View
 Task: Task 3, Test Name: Review, DOM Id: em, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: small, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: #P____83, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 3, Test Name: Size option, DOM Id: , Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 3, Test Name: Size option, DOM Id: , Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Fail
 Task: Task 3, Test Name: Quantity, DOM Id: input, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Fail
 Task: Task 3, Test Name: Add to cart, DOM Id: a, Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 1200 x 700, Device: laptop, Status: Fail
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____78, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____83, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____88, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
@@ -61,15 +61,15 @@ Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____168, Browser:
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____173, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____178, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 1, Test Name: Product grid, DOM Id: .grid_item, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=1"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=2"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=3"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=4"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=5"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=6"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=7"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=8"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=9"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=1"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=2"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=3"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=4"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=5"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=6"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=7"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=8"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=9"], Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_name, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_img, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Review, DOM Id: .icon-star, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
@@ -77,15 +77,15 @@ Task: Task 3, Test Name: Review, DOM Id: .icon-star.voted, Browser: firefox, Vie
 Task: Task 3, Test Name: Review, DOM Id: em, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: small, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: #P____83, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 3, Test Name: Size option, DOM Id: , Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 3, Test Name: Size option, DOM Id: , Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Fail
 Task: Task 3, Test Name: Quantity, DOM Id: input, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Fail
 Task: Task 3, Test Name: Add to cart, DOM Id: a, Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: firefox, Viewport: 1200 x 700, Device: laptop, Status: Fail
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____78, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____83, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____88, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
@@ -105,15 +105,15 @@ Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____168, Browser:
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____173, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____178, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 1, Test Name: Product grid, DOM Id: .grid_item, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=1"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=2"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=3"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=4"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=5"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=6"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=7"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=8"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=9"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=1"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=2"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=3"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=4"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=5"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=6"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=7"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=8"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=9"], Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_name, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_img, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Review, DOM Id: .icon-star, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
@@ -121,15 +121,15 @@ Task: Task 3, Test Name: Review, DOM Id: .icon-star.voted, Browser: edge, Viewpo
 Task: Task 3, Test Name: Review, DOM Id: em, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: small, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: #P____83, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 3, Test Name: Size option, DOM Id: , Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 3, Test Name: Size option, DOM Id: , Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Fail
 Task: Task 3, Test Name: Quantity, DOM Id: input, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Fail
 Task: Task 3, Test Name: Add to cart, DOM Id: a, Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Pass
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: edge, Viewport: 1200 x 700, Device: laptop, Status: Fail
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____78, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____83, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____88, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
@@ -149,15 +149,15 @@ Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____168, Browser:
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____173, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____178, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 1, Test Name: Product grid, DOM Id: .grid_item, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=1"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=2"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=3"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=4"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=5"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=6"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=7"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=8"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=9"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=1"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=2"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=3"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=4"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=5"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=6"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=7"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=8"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=9"], Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_name, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_img, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Review, DOM Id: .icon-star, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
@@ -165,15 +165,15 @@ Task: Task 3, Test Name: Review, DOM Id: .icon-star.voted, Browser: chrome, View
 Task: Task 3, Test Name: Review, DOM Id: em, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: small, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: #P____83, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 3, Test Name: Size option, DOM Id: , Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 3, Test Name: Size option, DOM Id: , Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Fail
 Task: Task 3, Test Name: Quantity, DOM Id: input, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Fail
 Task: Task 3, Test Name: Add to cart, DOM Id: a, Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 768 x 700, Device: tablet, Status: Fail
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____78, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____83, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____88, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
@@ -193,15 +193,15 @@ Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____168, Browser:
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____173, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____178, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 1, Test Name: Product grid, DOM Id: .grid_item, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=1"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=2"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=3"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=4"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=5"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=6"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=7"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=8"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=9"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=1"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=2"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=3"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=4"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=5"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=6"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=7"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=8"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=9"], Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_name, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_img, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Review, DOM Id: .icon-star, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
@@ -209,15 +209,15 @@ Task: Task 3, Test Name: Review, DOM Id: .icon-star.voted, Browser: firefox, Vie
 Task: Task 3, Test Name: Review, DOM Id: em, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: small, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: #P____83, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 3, Test Name: Size option, DOM Id: , Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 3, Test Name: Size option, DOM Id: , Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Fail
 Task: Task 3, Test Name: Quantity, DOM Id: input, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Fail
 Task: Task 3, Test Name: Add to cart, DOM Id: a, Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: firefox, Viewport: 768 x 700, Device: tablet, Status: Fail
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____78, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____83, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____88, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
@@ -237,15 +237,15 @@ Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____168, Browser:
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____173, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____178, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 1, Test Name: Product grid, DOM Id: .grid_item, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=1"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=2"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=3"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=4"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=5"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=6"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=7"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=8"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=9"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=1"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=2"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=3"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=4"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=5"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=6"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=7"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=8"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=9"], Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_name, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_img, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Review, DOM Id: .icon-star, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
@@ -253,15 +253,15 @@ Task: Task 3, Test Name: Review, DOM Id: .icon-star.voted, Browser: edge, Viewpo
 Task: Task 3, Test Name: Review, DOM Id: em, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: small, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: #P____83, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 3, Test Name: Size option, DOM Id: , Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 3, Test Name: Size option, DOM Id: , Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Fail
 Task: Task 3, Test Name: Quantity, DOM Id: input, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Fail
 Task: Task 3, Test Name: Add to cart, DOM Id: a, Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Pass
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: edge, Viewport: 768 x 700, Device: tablet, Status: Fail
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____78, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____83, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
 Task: Task 1, Test Name: Side bar filter [type], DOM Id: li#LI____88, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
@@ -281,15 +281,15 @@ Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____168, Browser:
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____173, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
 Task: Task 1, Test Name: Side bar filter [price], DOM Id: li#LI____178, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
 Task: Task 1, Test Name: Product grid, DOM Id: .grid_item, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=1"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=2"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=3"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=4"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=5"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=6"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=7"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=8"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV1.html?id=9"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=1"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=2"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=3"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=4"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=5"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=6"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=7"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=8"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
+Task: Task 1, Test Name: Product grid, DOM Id: a[href="gridHackathonProductDetailsV2.html?id=9"], Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_name, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
 Task: Task 3, Test Name: Shoe title and picture, DOM Id: #shoe_img, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
 Task: Task 3, Test Name: Review, DOM Id: .icon-star, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
@@ -297,12 +297,12 @@ Task: Task 3, Test Name: Review, DOM Id: .icon-star.voted, Browser: chrome, View
 Task: Task 3, Test Name: Review, DOM Id: em, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: small, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
 Task: Task 3, Test Name: Shoe description, DOM Id: #P____83, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 3, Test Name: Size option, DOM Id: , Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
+Task: Task 3, Test Name: Size option, DOM Id: , Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Fail
 Task: Task 3, Test Name: Quantity, DOM Id: input, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
+Task: Task 3, Test Name: Price, DOM Id: #new_price, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #old_price, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Fail
+Task: Task 3, Test Name: Price, DOM Id: #discount, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Fail
 Task: Task 3, Test Name: Add to cart, DOM Id: a, Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
-Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Pass
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Fail
+Task: Task 2, Test Name: Filtering for black shoes, DOM Id: , Browser: chrome, Viewport: 500 x 700, Device: iphone-x, Status: Fail
