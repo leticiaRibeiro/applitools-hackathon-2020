@@ -24,19 +24,6 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
 
-const fs = require('fs');
-
-const browser = "Firefox";
-const viewport = "1200x700";
-const device = "Laptop";
-
-
-
-function hackathonReporter(task, testName, domId, comparisonResult) {
-    fs.appendFileSync('Traditional-V1-TestResults.txt', `"Task: ${task}, Test Name: ${testName}, DOM Id: ${domId}, Browser: ${browser}, Viewport: ${viewport}, Device: ${device}, Status: ${(comparisonResult ? "Pass" : "Fail")}\n`);
-    return comparisonResult;
-}
-
 
 
 // describe('Task 1 - Header location', function() {
@@ -52,14 +39,13 @@ function hackathonReporter(task, testName, domId, comparisonResult) {
 // });
 
 
-cy.hackathon = {
-    shouldBeVisible: (task, testName, domId) => {
-    var displayed = true;
-    try { 
-         cy.get(domId).should('be.visible');
-    } catch(e) {
-     displayed = false;
-    }
-    return hackathonReporter(task, testName, domId, displayed);
-    }
-}
+const fs = require('fs');
+Cypress.Commands.add("reporter", { prevSubject: 'should' }, (options, taskName, testName, comparisonResult) => { 
+    const browser = Cypress.browser.name;
+    const viewport = `${Cypress.config().viewportWidth} x ${Cypress.config().viewportHeight}`;
+    const device = Cypress.config().viewportWidth <= 500 ? 'iphone-x' : Cypress.config().viewportWidth <= 768 ? 'tablet' : 'laptop';
+    cy.writeFile(
+        'Traditional-V1-TestResults.txt', 
+        `Task: ${String(taskName)}, Test Name: ${String(testName)}, DOM Id: ${options.selector}, Browser: ${browser}, Viewport: ${viewport}, Device: ${device}, Status: ${(comparisonResult ? "Pass" : "Fail")}\n`,
+        { flag: 'a+' });
+}) 
