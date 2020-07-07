@@ -2,9 +2,9 @@
 
 const taskName = 'Task 1'
 
-describe('Traditional tests V1 - Task 1',() => {
+describe('Traditional tests V2 - Task 1',() => {
     beforeEach('Visiting the website', () => {
-        cy.visit('/gridHackathonV1.html')
+        cy.visit('/gridHackathonV2.html')
     })
 
     it('Side bar filter [type]', () => {
@@ -40,14 +40,14 @@ describe('Traditional tests V1 - Task 1',() => {
     it('Product grid', () => {
         const testName = 'Product grid'
         cy.get('.grid_item').should('have.length', 9).reporter(taskName, testName, true)
-        cy.get('a[href="gridHackathonProductDetailsV1.html?id=1"]').should('be.visible').reporter(taskName, testName, true)
-        cy.get('a[href="gridHackathonProductDetailsV1.html?id=2"]').should('be.visible').reporter(taskName, testName, true)
-        cy.get('a[href="gridHackathonProductDetailsV1.html?id=3"]').should('be.visible').reporter(taskName, testName, true)
-        cy.get('a[href="gridHackathonProductDetailsV1.html?id=4"]').should('be.visible').reporter(taskName, testName, true)
-        cy.get('a[href="gridHackathonProductDetailsV1.html?id=5"]').should('be.visible').reporter(taskName, testName, true)
-        cy.get('a[href="gridHackathonProductDetailsV1.html?id=6"]').should('be.visible').reporter(taskName, testName, true)
-        cy.get('a[href="gridHackathonProductDetailsV1.html?id=7"]').should('be.visible').reporter(taskName, testName, true)
-        cy.get('a[href="gridHackathonProductDetailsV1.html?id=8"]').should('be.visible').reporter(taskName, testName, true)
-        cy.get('a[href="gridHackathonProductDetailsV1.html?id=9"]').should('be.visible').reporter(taskName, testName, true)
+        cy.get('a[href="gridHackathonProductDetailsV2.html?id=1"]').should('be.visible').reporter(taskName, testName, true)
+        cy.get('a[href="gridHackathonProductDetailsV2.html?id=2"]').should('be.visible').reporter(taskName, testName, true)
+        cy.get('a[href="gridHackathonProductDetailsV2.html?id=3"]').should('be.visible').reporter(taskName, testName, true)
+        cy.get('a[href="gridHackathonProductDetailsV2.html?id=4"]').should('be.visible').reporter(taskName, testName, true)
+        cy.get('a[href="gridHackathonProductDetailsV2.html?id=5"]').should('be.visible').reporter(taskName, testName, true)
+        cy.get('a[href="gridHackathonProductDetailsV2.html?id=6"]').should('be.visible').reporter(taskName, testName, true)
+        cy.get('a[href="gridHackathonProductDetailsV2.html?id=7"]').should('be.visible').reporter(taskName, testName, true)
+        cy.get('a[href="gridHackathonProductDetailsV2.html?id=8"]').should('be.visible').reporter(taskName, testName, true)
+        cy.get('a[href="gridHackathonProductDetailsV2.html?id=9"]').should('be.visible').reporter(taskName, testName, true)
     })
 })

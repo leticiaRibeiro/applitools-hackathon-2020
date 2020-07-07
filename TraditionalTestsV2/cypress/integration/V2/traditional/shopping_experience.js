@@ -2,11 +2,11 @@
 
 const taskName = 'Task 2'
 
-describe('Traditional tests V1 - Task 2',() => {
+describe('Traditional tests V2 - Task 2',() => {
 
     it('Filtering for black shoes', () => {
         const testName = 'Filtering for black shoes'
-        cy.visit('/gridHackathonV1.html')
+        cy.visit('/gridHackathonV2.html')
         cy.get('#ti-filter').click({ force: true })
         cy.get('#colors__Black').click()
         cy.get('#filterBtn').scrollIntoView().click()

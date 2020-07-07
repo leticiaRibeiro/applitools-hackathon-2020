@@ -2,10 +2,10 @@
 
 const taskName = 'Task 3'
 
-describe('Traditional tests V1 - Task 3',() => {
+describe('Traditional tests V2 - Task 3',() => {
 
     beforeEach('Visiting the website', () => {
-        cy.visit('/gridHackathonProductDetailsV1.html?id=1')
+        cy.visit('/gridHackathonProductDetailsV2.html?id=1')
     })
 
     it('Shoe title and picture', () => {
